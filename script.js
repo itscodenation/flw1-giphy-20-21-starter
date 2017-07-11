@@ -27,44 +27,30 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
 // search function
-function search(searchTerm){
-    var url = "https://api.giphy.com/v1/stickers/search?q=" + searchTerm + "&api_key=dc6zaTOxFJmzC";
-    $.ajax({
-        url: url,
-        method: "GET",
-        success: function(response){
-        displayResults(response.data);
-        },
-    }); 
-}
+
+
+
+
+
 
 // displayResults function
-function displayResults(data){
-     for(var i = 0; i < data.length; i++){
-           console.log(data[i].images.fixed_width.url);
-            $('.gallery').append(
-                '<div class="col-lg-3 col-md-4 col-xs-6 thumb">\
-                    <a class="thumbnail">\
-                        <img src=' + data[i].images.fixed_width.url + '/>\
-                    </a>\
-                </div>'
-            );
-      }
-}
+
+
+
+
+
 
 // .click function
-$(".btn").click(function(){
-    $('.gallery').empty();
-    var searchTerm = $('#srch-term').val();
-    search(searchTerm);
-});
+
+
+
+
+
 
 // .keypress function
-$("body").keypress(function(e){
-    console.log(e.which)
-    if(e.which === 13 ) {
-        $('.gallery').empty();
-        var searchTerm = $('#srch-term').val();
-        search(searchTerm);
-    }
-});
+
+
+
+
+
+
