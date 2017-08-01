@@ -5,10 +5,12 @@
 | 3 |[Giphy](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[Planning Document](https://docs.google.com/document/d/1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs/edit)|[Rubric](https://docs.google.com/document/d/1BlL6dLk1Yzt_QB9pKoHh9si7VRjGPXwAc5NuZP_y0DU/edit)|
 
 ## Overview: 
-* 
+* Students will be introduced to APIS. They will create and application by which they use the Giphy API and display it to the results scrern. They will iterate over the array and add an div containg student infrmation to the screen.
 
 ## Functionality:
-* 
+* User enters a search term.
+* Computer submits a request to the Giphy API.
+* Computer displays GIFs.
 
 ## Project Submission:
 * Project must have ALL changes pushed to github
@@ -24,11 +26,10 @@
 * [Script Tag](http://javascript.crockford.com/script.html)
 * [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * [JQuery Events](http://api.jquery.com/category/events/)
-* [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+* [JQuery AJAX](https://www.w3schools.com/jquery/ajax_ajax.asp)
 
 ***
 ## Instructions
-
 You are given Starter Code for this project which you must fork and clone into your own workspace. 
 
 ### 1) Fork this repo to your own github account 
@@ -58,8 +59,10 @@ The HTML file in this repo is not fully complete as of right now. Follow the com
 Use the comments within the script.js file to help you complete the missing components of this game. Follow the comments within the file before moving on to the extensions.
 
 ### 6) Extensions 
-See above for project extensions. 
-
+* Copy link to clipboard when you click on a giphy image
+* Add a button that resets the page to its original state
+* Add a button that randomly selects a single gif
+* Add a Meme generator that overlays text on a random gif
 
 ## Homework
 Instructor will assign homework based on progress in class.
