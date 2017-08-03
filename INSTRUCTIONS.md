@@ -30,7 +30,4 @@ Students will be introduced to APIS. They will create and application by which t
 * Make the gif pop out in a modal when clicked on
 
 ## References/Tools
-* [Script Tag](http://javascript.crockford.com/script.html)
-* [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
-* [JQuery Events](http://api.jquery.com/category/events/)
-* [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+
