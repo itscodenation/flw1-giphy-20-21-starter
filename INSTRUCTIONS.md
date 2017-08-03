@@ -2,7 +2,7 @@
 
 | # classes|Example|Planning|Assesment|
 |:--:|:--:|:--:|:--:|
-| 3 |[Giphy](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[Planning Document](https://docs.google.com/document/d/1dddAl5l-A1l0gA-oGxpcCFmlxRJzB7il39QEqmAm2Bs/edit)|[Rubric](https://docs.google.com/document/d/1BlL6dLk1Yzt_QB9pKoHh9si7VRjGPXwAc5NuZP_y0DU/edit)|
+| 3 |[Giphy](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[Planning Document](https://drive.google.com/open?id=1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8)|[Rubric](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|
 
 ## Overview: 
 Students will be introduced to APIS. They will create and application by which they use the Giphy API and display it to the results scrern. They will iterate over the array and add an div containg thumbnails to the screen.
