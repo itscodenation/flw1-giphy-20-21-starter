@@ -19,12 +19,10 @@
 // Class 3:
   // 3.1
     // Create the display results function
-    // Displays a single image thumbnails on the screen
+    // Displays a single image thumbnail on the screen
     // Call the Display Results function in the success function passing the reponse as a parameter
   // 3.2 
-    // Update the fuction to display all the image thumbnails to the screen
-  
-    
+    // Use Math.random to randomly select an image from the data array 
 
 // *************************** YOUR CODE BELOW *******************************
 //******************TEST EARLY AND OFTEN USING console.log() ******************
@@ -33,13 +31,7 @@
 // .keypress function
 
 
-
-
 // search function
 
 
-
-
 // displayResults function
-
-
