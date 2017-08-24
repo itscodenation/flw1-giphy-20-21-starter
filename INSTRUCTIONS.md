@@ -5,7 +5,7 @@
 | 3 |[Giphy](https://scriptedcurriculum.github.io/advanced_giphy_solution/)|[Planning Document](https://drive.google.com/open?id=1LJcfvOTUZHwjdjZMU-94r5tXVEYmhJjb6ExYJf0zSQ8)|[Rubric](https://drive.google.com/open?id=1NhN9GCw6g9ySGZYSW3yMyM0Ld-Hjpo0fNJJgY7u1rvo)|
 
 ## Overview: 
-In this unit coders will create a Giphy App. The Giphy App will take a search term as input and display a random Gif in a thumbnail to the screen. In order to create this project learn the anatomy of a API Request, use AJAX to make a simple get request, handle a JSON response object, use jQuery to display a gif image.
+In this unit, coders will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, coders will learn the anatomy of a API Request, use AJAX to make a simple get request, handle a JSON response object, use jQuery to display a gif image.
 
 ## Objectives:
 1.1) plan and wireframe a project and create HTML <br>
