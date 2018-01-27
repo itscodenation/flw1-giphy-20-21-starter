@@ -7,14 +7,6 @@
 ## Overview: 
 In this unit, coders will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, coders will learn the anatomy of a API Request, use AJAX to make a simple get request, handle a JSON response object, use jQuery to display a gif image.
 
-## Objectives:
-1.1) plan and wireframe a project and create HTML <br>
-1.2) Identify an API and navigate data in a JSON response <br>
-2.1) Implement a keypress function <br>
-2.2) Create and AJAX, Get Request <br>
-3.1) handle response object from AJAX success function <br>
-3.2) dynamically display items from JSON <br>
-
 ## Instructions
 1) Fork this repo to your own github account. 
 2) Clone this repo into your own Cloud9 account workspace.
