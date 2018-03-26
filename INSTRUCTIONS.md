@@ -17,7 +17,7 @@ In this unit, coders will create a Giphy App. The Giphy App will take a search t
 7) Add links to working url and project source code to your portfolio with an image and short description of the project.
 
 ## Projects Extensions:
-* Create a button the that randomly chooses only one gif
+* Create a button that randomly chooses only one gif
 * Create a mail to link that will email the gif to anyone you want
 * Make the gif pop out in a modal when clicked on
 
