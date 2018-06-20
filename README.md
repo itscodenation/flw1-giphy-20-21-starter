@@ -1,7 +1,9 @@
 # Giphy
 
 ## Project Description
-Using the Giphy API, you will build an app that will display Gifs based on a search term. Follow the steps below to make your very own site! 
+In this unit, you will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, you will learn the anatomy of an API Request, use AJAX to make a simple GET request, handle a JSON response object, and use jQuery to display a gif.
+
+Follow the steps below to make your very own site! 
 Make sure to check off your items as you complete them. [ ] => [x]
 
 
