@@ -2,7 +2,9 @@
 //******************TEST EARLY AND OFTEN USING console.log() ******************
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
-$("#search-button").on("click", function() {
-
+$("#search-button").click(function(){
+  
+  
+  
 });
 
