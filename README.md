@@ -29,7 +29,6 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Update the API request url based on user input
 - [ ] Display the image to the screen 
 
-- [ ] 
 ### Wrap
 - [ ] Push your changes!
 
