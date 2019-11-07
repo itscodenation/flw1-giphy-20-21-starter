@@ -1,4 +1,5 @@
 # Giphy
+## Browser preview command: python3 -m http.server 3000
 
 ## Project Description
 In this unit, you will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, you will learn the anatomy of an API Request, use AJAX to make a simple GET request, handle a JSON response object, and use jQuery to display a gif.
