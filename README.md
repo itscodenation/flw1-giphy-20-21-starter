@@ -17,7 +17,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Make your site live on gh-pages
 
 ### JS
-- [ ] Have a working fetch() function inside the click handler
+- [ ] Create a working fetch() function inside the click handler
 - [ ] Get the response from using your search URL https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
 - [ ] Console log the response
 
@@ -26,9 +26,10 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 2
 ### JS
+- [ ] Display the image from your console log on the screen
 - [ ] Take user input from the input box when button is clicked
 - [ ] Update the API request url based on user input
-- [ ] Display the image to the screen 
+- [ ] Display the updated image on the screen 
 
 ### Wrap
 - [ ] Push your changes!
