@@ -1,43 +1,42 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            Giphy
-        </title>
+<html lang="en">
 
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link type="text/css" rel="stylesheet" href="css/style.css" />
-    </head>
-    <body>
-        <nav class="navbar navbar-dark bg-dark fixed-top justify-content-between">
-            <a class="navbar-brand">Giphy</a>
-            <div class="form-inline">
-                <input id="search-term" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button id="search-button" class="btn btn-outline-success my-2 my-sm-0">Search</button>
-            </div>
-        </nav>
+  <head>
+    <title>Unit 6: Giphy Project</title>
+    
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan+2&amily=Archivo+Black&display=swap" rel="stylesheet">
 
-        <!-- Page Content -->
-        <div class="container">
-            <div class="row gallery justify-content-center">
-                <h3 class="text-center">  Search for a Gif above <br> Your results will display here</h3>
-            </div>
-        </div>
+  </head>  
 
-        <!-- Footer -->
-        <footer>
-            <div class="container">
-                <div class="row justify-content-center">
-                    <p>Copyright &copy; Your Website 2017</p>
-                </div>
-            </div>
-        </footer>
+<body>
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        <script src="js/script.js" async defer> </script>
-    </body>
+  <!-- Page Content -->
+  <header>
+    <h1>Search for a GIF, any GIF!</h1>
+  </header>
+  
+  <input id="search-term" placeholder="Search">
+  <button id="search-button">Search</button>
 
+  <!-- Have your GIF appear below -->
+  <div class="main">
+    <h3 id="introText">Your random GIF will display here</h3>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>Copyright &copy; YourNameHere 20-21</p>
+  </footer>
+
+  <!-- Don't touch this! -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="js/script.js" async defer> </script>
+  
+</body>
+  
 </html>
