@@ -8,7 +8,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 1
 ### Planning
-- [] Copy the project planning document and link a completed version in your ReadMe.
+- [ ] Copy the project planning document and link a completed version in your ReadMe.
 
 ### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/Giphy
