@@ -3,7 +3,7 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 /* global $ */
 
-$("#search-button").click(function(){
+$(".search-button").click(function(){
   
 
   
