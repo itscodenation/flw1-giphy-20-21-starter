@@ -1,20 +1,18 @@
 # Unit 6: Giphy Project
 
 ## Project Description
-In this unit, you will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, you will learn the anatomy of an API Request, use AJAX to make a simple GET request, handle a JSON response object, and use jQuery to display a gif.
+In this unit, you will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, you will learn the anatomy of an API Request, use Promises to make a simple GET request, handle a JSON response object, and use jQuery to display a gif.
 
 Follow the steps below to make your very own site! 
 Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 1
 ### Planning
-- [ ] Copy the project planning document and link a completed version in your ReadMe.
+- [ ] Copy the [project planning document](https://docs.google.com/document/d/1IGYcwf_1W0PlzBBBDUdgrmoROGR1rDCVIJeEX2lZFUg/edit#) and link a completed version in your ReadMe.
 
 ### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/Giphy
 - [x] Fork this repository to your Github account and pull it down to Glitch.
-- [ ] Add, commit, and push your changes.
-- [ ] Make your site live on gh-pages.
 
 ### JavaScript
 - [ ] Create a working fetch() request inside the click handler.
@@ -50,7 +48,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Make the GIF pop out in a modal when clicked on.
 
 ## References/Tools
-* [Fellowship Reference Table]()
+* [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/edit)
 * [Script Tag](http://javascript.crockford.com/script.html)
 * [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 
