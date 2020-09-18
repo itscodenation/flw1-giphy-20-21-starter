@@ -49,6 +49,5 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## References/Tools
 * [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/edit)
-* [Script Tag](http://javascript.crockford.com/script.html)
 * [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 
