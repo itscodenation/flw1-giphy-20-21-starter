@@ -31,7 +31,7 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 ### Day 1 Goal 3: Navigate the API request to return a gif
 
 - [ ] Navigate through the API request URL to return only the first gif in the array
-  - [ ] HINT: Work your way through the layers one at a time to find where the original image URLs are stored
+  - [ ] HINT: Work your way through the layers one at a time (check your console every time!) to find where the original image URLs are stored
 - [ ] Update your API request so that only the original image URL is logged to the console
 
 #### Wrap
@@ -42,7 +42,8 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 
 ### Day 2 Goal 1: Display a gif to the screen
 
-- [ ] Use string interpolation to update the fetch request so the original gif URL is appended to the screen in the correct div
+- [ ] Update the fetch request so the original gif URL is appended to the screen in the correct div
+- [ ] Use string interpolation to get the gif image to display on the screen
 
 ### Day 2 Goal 2: Add a click handler so the API request can use inputted data
 
