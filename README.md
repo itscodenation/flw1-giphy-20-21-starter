@@ -23,11 +23,16 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 - [ ] Read through the HTML starter code to understand the organization and class names given.
 - [ ] Go to the API request URL [here](https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC) to see how the API request is set up.
 
-### Day 1 Goal 2: Write a fetch request to the API to return a gif
+### Day 1 Goal 2: Write a fetch request to the API
 
 - [ ] Declare a variable that stores the following API request URL: https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
-- [ ] Write the fetch request that logs the original gif URL to the console
-- [ ] Update the fetch request so the original gif URL displays on the screen in the correct div
+- [ ] Write the fetch request that logs the entire API request to the console
+
+### Day 1 Goal 3: Navigate the API request to return a gif
+
+- [ ] Navigate through the API request URL to return only the first gif in the array
+- [ ] Find where the original image URLs are stored
+- [ ] Update your API request so that only the original image URL is logged to the console
 
 #### Wrap
 
@@ -35,7 +40,11 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 
 ## Day 2
 
-### Day 2 Goal 1: Add a click handler so the API request can use inputted data
+### Day 2 Goal 1: Display a gif to the screen
+
+- [ ] Use string interpolation to update the fetch request so the original gif URL is appended to the screen in the correct div
+
+### Day 2 Goal 2: Add a click handler so the API request can use inputted data
 
 - [ ] Write a click handler for the "Searc" button and move your fetch request into the body
 - [ ] Declare a variable to save the user's input
