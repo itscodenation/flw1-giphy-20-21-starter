@@ -3,16 +3,25 @@
 ## Project Description
 In this unit, you will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, you will learn the anatomy of an API Request, use Promises to make a simple GET request, handle a JSON response object, and use jQuery to display a gif.
 
-Follow the steps below to make your very own site! 
-Make sure to check off your items as you complete them. [ ] => [x]
-
 ## Day 1
-### Planning
-- [ ] Copy the [project planning document](https://docs.google.com/document/d/1IGYcwf_1W0PlzBBBDUdgrmoROGR1rDCVIJeEX2lZFUg/edit#) and link a completed version in your ReadMe.
 
-### Set-Up
-- [x] Go to the repository at https://github.com/itscodenation/Giphy
-- [x] Fork this repository to your Github account and pull it down to Glitch.
+## Day 1 Goal 1: Set Up
+
+#### Planning
+
+- [ ] Complete the project planning document.
+
+#### GitHub Set-Up
+
+- [x] Go to the repository
+- [ ] Fork this repository to your Github account and import to a new workspace
+- [ ] Submit your website using the link on the Agenda
+
+#### Starter Code
+
+- [ ] Read through the HTML starter code to understand the organization and class names given.
+- [ ] Read through the `script.js` starter code to determine what global variables are declared, and what the two declared functions do.
+- [ ] Go to the API documentation [here](https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search) to see how the API request is set up.
 
 ### JavaScript
 - [ ] Create a working fetch() request inside the click handler.
