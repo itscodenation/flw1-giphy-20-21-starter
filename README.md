@@ -25,7 +25,7 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 
 ### Day 1 Goal 2: Write a fetch request to the API
 
-- [ ] Declare a variable that stores the following API request URL: https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
+- [ ] Declare a variable that stores the following API request URL: https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=tTVMCPwEb1NapUWHla1pBNt4jKlfEqo1
 - [ ] Write the fetch request that logs the entire API request to the console
 
 ### Day 1 Goal 3: Navigate the API request to return a gif
