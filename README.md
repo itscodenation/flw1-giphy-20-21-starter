@@ -21,7 +21,7 @@ In this unit, you will create a Giphy App. The Giphy App will take a search term
 #### Starter Code
 
 - [ ] Read through the HTML starter code to understand the organization and class names given.
-- [ ] Go to the API request URL [here](https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC) to see how the API request is set up.
+- [ ] Go to the API request URL [here](https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=tTVMCPwEb1NapUWHla1pBNt4jKlfEqo1) to see how the API request is set up.
 
 ### Day 1 Goal 2: Write a fetch request to the API
 
