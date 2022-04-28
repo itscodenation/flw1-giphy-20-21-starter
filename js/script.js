@@ -9,10 +9,18 @@ $(".search-button").click(function(){
       .then(function(data){
         let www = data.data.length
         console.log(data.data);
-        let abcd = Math.floor(Math.random()*www);
-        console.log(`list#: ${abcd}`);
-        let number = data.data[abcd].images.original.url
-        console.log(number);
-        $(".main").html(`<img height="250px" src="${number}">`);
+        
+        let i=0
+        $(".img_here").empty();
+        while (i<3){
+          let abcd = Math.floor(Math.random()*www);
+          console.log(`list#: ${abcd}`);
+          let number = data.data[abcd].images.original.url
+          console.log(number);
+          $(".img_here").append(`<div class="blocks"><img height="250px" src="${number}">
+          <br>
+          <a href = "mailto: ">Send Email</a>`);
+          i=i+1
+        }
       })
 });
