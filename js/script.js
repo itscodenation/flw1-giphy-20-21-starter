@@ -16,10 +16,12 @@ $(".search-button").click(function(){
           let abcd = Math.floor(Math.random()*www);
           console.log(`list#: ${abcd}`);
           let number = data.data[abcd].images.original.url
+          let email = $(".email-input").val();
           console.log(number);
           $(".img_here").append(`<div class="blocks"><img height="250px" src="${number}">
           <br>
-          <a href = "mailto: ">Send Email</a>`);
+          <a href = "mailto: ${email}">Mail_to_link</a>`);
+          $(".img_here").css("display","block");
           i=i+1
         }
       })
